@@ -1,0 +1,11 @@
+.git
+.github
+.gitignore
+.assetsignore
+.claude
+.wrangler
+wrangler.jsonc
+node_modules
+CLAUDE.md
+DESIGN.md
+prova-*.html
